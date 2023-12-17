@@ -1,0 +1,13 @@
+//
+// Created by Kristal Hong on 11/16/23.
+//
+
+#ifndef CS8_DROPDOWNMENU_FONTENUM_H
+#define CS8_DROPDOWNMENU_FONTENUM_H
+
+enum fontEnum {
+    OPEN_SANS, COMIC_SANS, ARIAL, ROBOTO, WHISPER, LOBSTER
+};
+
+
+#endif //CS8_DROPDOWNMENU_FONTENUM_H

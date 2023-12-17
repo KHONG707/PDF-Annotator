@@ -1,0 +1,16 @@
+//
+// Created by Kristal Hong on 11/16/23.
+//
+
+#ifndef CS8_DROPDOWNMENU_STATESENUM_H
+#define CS8_DROPDOWNMENU_STATESENUM_H
+
+enum statesEnum {
+    HOVERED, CLICKED, HIDDEN, HIGHLIGHTED, OPEN, SHOW_CHILDREN, SELECTED,
+
+    //add above this
+    LAST_STATE
+};
+
+
+#endif //CS8_DROPDOWNMENU_STATESENUM_H
